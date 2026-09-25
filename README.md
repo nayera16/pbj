@@ -1,5 +1,7 @@
 # pbj
 
+README CHANGE
+
 An example repo for a GitHub lesson. It's a tiny, deliberately
 over-engineered Python package that "makes" a peanut butter and jelly
 sandwich, based on the class's PB&J pseudocoding activity.
